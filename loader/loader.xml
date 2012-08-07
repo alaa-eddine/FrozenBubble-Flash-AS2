@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<movie width="640" height="480" framerate="40">
+  <background color="#401580"/>
+	<frame>
+	<library>
+		<clip id="tux" import="./gfx/tux.png"/>
+		<clip id="red_bubble" import="./gfx/red-bubble.png"/>
+		<clip id="orange_bubble" import="./gfx/orange-bubble.png"/>
+		<clip id="green_bubble" import="./gfx/green-bubble.png"/>
+	</library>
+</frame>
+</movie>
